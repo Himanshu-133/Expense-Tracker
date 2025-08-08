@@ -29,4 +29,5 @@ Track your finances effortlessly with **Expense Tracker Pro**, a visually stunni
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker-pro.git
+    git clone https://github.com/Himanshu-133/Expense-Tracker.git
+  
